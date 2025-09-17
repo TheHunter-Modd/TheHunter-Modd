@@ -3,7 +3,9 @@
 Hi! I'm Victor Oyeleke, a Computer Science student and aspiring Data Analyst. I have a passion for technology, cars, and gaming. When I'm not coding or analyzing data, you'll probably find me gaming (CODM plug!), moderating communities on Discord and TikTok, or exploring the latest tech trends.
 
 **Skills:**  
-- HTML, CSS, Java  
+- HTML
+- CSS
+- Java  
 - PHP  
 - SQL  
 - Microsoft Excel
